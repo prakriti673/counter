@@ -1,4 +1,4 @@
-//set initail count
+//set initial count
 let count=0;
 
 const value=document.querySelector("#value");         //id of val
